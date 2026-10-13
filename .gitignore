@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Data files (personal logs — keep private)
+data/*.csv
+data/*.xlsx
+reports/
+
+# Secrets
+.env
+config.ini
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
